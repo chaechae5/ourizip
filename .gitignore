@@ -6,6 +6,8 @@
 # Editors
 .idea/
 .vscode/
+!apps/mobile/.vscode/
+!apps/mobile/.vscode/*.json
 
 # Environment files
 .env
