@@ -13,8 +13,9 @@
 - Docker
 
 ### 실행
-docker-compose up -d
-./gradlew bootRun
+`docker-compose up -d`
+
+`./gradlew bootRun`
 
 ## 환경변수
-`application-local.yml.sample` 파일을 복사하여 `application-local.yml` 생성 후 값 입력
+`application-local.yml.sample` 파일을 복사해 `application-local.yml`을 만든 뒤 값을 입력합니다.

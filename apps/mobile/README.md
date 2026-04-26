@@ -1,3 +1,3 @@
-# Mobile App
+# 모바일 앱
 
-This directory is reserved for the React Native application.
+이 디렉토리는 React Native 애플리케이션을 위한 공간입니다.

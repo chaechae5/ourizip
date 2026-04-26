@@ -1,3 +1,3 @@
-# Docs
+# 문서
 
-This directory is reserved for architecture notes, setup guides, product documentation, and decision records for the `ourizip` monorepo.
+이 디렉토리는 `ourizip` 모노레포의 아키텍처 노트, 설정 가이드, 제품 문서, 의사결정 기록을 정리하는 공간입니다.
